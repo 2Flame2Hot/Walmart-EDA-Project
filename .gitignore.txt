@@ -1,0 +1,11 @@
+# Ignore data and sensitive files
+data/
+*.csv
+*.xlsx
+
+# Ignore Jupyter auto-saves
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Ignore temporary files
+__pycache__/
