@@ -11,7 +11,8 @@ Analyze Walmart's weekly sales data to identify:
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-## Project Structure
+
+## 🗂 Project Structure
 Walmart-EDA-Project/
 │
 ├── notebooks/                     # Jupyter Notebook
