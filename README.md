@@ -12,19 +12,26 @@ The project is designed as a portfolio piece to demonstrate skills in **Python, 
 Walmart-Sales-EDA/
 │
 ├── data/ # Dataset (local, not uploaded to GitHub if large)
-│ └── Walmart_Store_sales.csv
+│   │
+│   └── Walmart_Store_sales.csv
 │
 │
 ├── notebooks/ # Jupyter Notebooks
-│ ├── Analysis_Walmart_EDA.ipynb
-│ ├── Feature_Engineering.ipynb
-│ └── Model_Baseline.ipynb
+│   │
+│   ├── Analysis_Walmart_EDA.ipynb
+│   │
+│   ├── Feature_Engineering.ipynb
+│   │
+│   └── Model_Baseline.ipynb
 │
 │
 ├── reports/ # Exported HTML reports
-│ ├── Analysis_Walmart_EDA.html
-│ ├── Feature_Engineering.html
-│ └── Model_Baseline.html
+│   │
+│   ├── Analysis_Walmart_EDA.html
+│   │
+│   ├── Feature_Engineering.html
+│   │  
+│   └── Model_Baseline.html
 │
 │
 └── README.md
@@ -78,7 +85,7 @@ Walmart-Sales-EDA/
 ---
 
 ## Author
-👤 Developed by [Your Name]  
+👤 Developed by Siripaiboon Janpetch 
 🎓 MS Data Analytics Student @ UTSA  
-🔗 [LinkedIn Profile](https://www.linkedin.com) | [GitHub Profile](https://github.com/yourusername)  
+🔗 [LinkedIn Profile](www.linkedin.com/in/siripaiboon-janpetch) | [GitHub Profile](https://github.com/2Flame2Hot)  
 
