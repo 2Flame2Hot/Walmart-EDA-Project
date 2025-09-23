@@ -6,7 +6,7 @@ The workflow includes **Exploratory Data Analysis (EDA)**, **Feature Engineering
 
 The project is designed as a portfolio piece to demonstrate skills in **Python, Pandas, Data Visualization, and Machine Learning**.
 
----
+```
 
 ## Project Structure
 Walmart-Sales-EDA/
@@ -37,7 +37,7 @@ Walmart-Sales-EDA/
 └── README.md
 
 
----
+```
 
 ## Workflow
 ### 1. Exploratory Data Analysis (EDA)
