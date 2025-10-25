@@ -5,43 +5,50 @@ This project analyzes Walmart’s weekly sales data and builds forecasting model
 The workflow includes **Exploratory Data Analysis (EDA)**, **Feature Engineering**, **Model Baseline**, and **Model Improvement (Hyperparameter Tuning)** using XGBoost.  
 
 The project is designed as a **portfolio piece** to demonstrate skills in  
-**Python, Pandas, Data Visualization, Machine Learning, and Model Optimization.**
-
-
+**Python, Pandas, Data Visualization, Machine Learning, Model Optimization, and Tableau Dashboard Design.**
 
 
 ```
 
-## Project Structure
+## 📂 Project Structure
 
-Walmart-Sales-EDA/
+
+BusinessAnalyticProject/
 │
-├── data/ # Raw & processed datasets (not uploaded if large)
+├── data/ # Raw & processed datasets
+│ ├── walmart_features_weekly.csv
+│ └── walmart_dashboard_data.csv
 │
-├── notebooks/ # Jupyter Notebooks
+├── notebooks/ # Jupyter Notebooks (EDA, Feature Engineering, Modeling)
 │ ├── Analysis_Walmart_EDA.ipynb
 │ ├── Feature_Engineering.ipynb
 │ ├── Model_Baseline.ipynb
 │ └── Model_Tuning_XGBoost.ipynb
 │
-├── reports/ # Exported HTML reports
+├── reports/ # Exported HTML reports & supporting visuals
 │ ├── Analysis_Walmart_EDA.html
 │ ├── Feature_Engineering.html
 │ ├── Model_Baseline.html
-│ └── Model_Tuning_XGBoost.html
+│ ├── Model_Tuning_XGBoost.html
+│ └── artifacts/ (charts, metrics)
 │
-├── reports/artifacts/ # Charts and summary tables
-│ ├── feature_importance_top15.png
-│ ├── per_store_mape_top10.png
-│ ├── per_store_mape_bottom10.png
-│ └── model_improvement_summary.json
+├── Tableau_prep/ # Tableau Prep workflow (.tfl)
+│ └── Walmart_Prep_Flow.tfl
 │
-└── README.md
+├── Tableau_dashboard/ # Tableau dashboard file (.twbx)
+│ └── Walmart_Sales_Insights.twbx
+│
+├── exports/ # Exported dashboard image/PDF for presentation
+│ └── Walmart_Sales_Insights_Dashboard_2011_2012.png
+│
+├── .gitignore # Ignore unnecessary files for GitHub
+├── .Rhistory # Auto-generated history (optional)
+└── README.md # Project documentation
 
 
 ```
 
-## Workflow
+## 🚀 Project Workflow
 
 ### 1️⃣ Exploratory Data Analysis (EDA)
 - Analyzed seasonal sales trends and top-performing stores  
@@ -88,6 +95,21 @@ Walmart-Sales-EDA/
 
 ---
 
+### 5️⃣ Tableau Visualization & Dashboard
+- Prepared clean, aggregated data in **Tableau Prep Flow** (`Walmart_Prep_Flow.tfl`)  
+  - Joined sales and external features (Fuel Price, CPI, Unemployment)  
+  - Aggregated to weekly level by `Store`  
+- Designed **interactive Tableau Dashboard** (`Walmart_Sales_Insights.twbx`) showing:
+  - 📈 *Weekly Real Sales Trend (2011–2012)*  
+  - 🏬 *Top 10 Walmart Stores by Total Real Sales*  
+- Added annotations, colors, and trend lines to highlight seasonal peaks (Nov–Dec)  
+- Exported final dashboard image for GitHub presentation  
+
+🖼️ **Dashboard Preview:**  
+![Walmart Dashboard](exports/Walmart_Sales_Insights_Dashboard_2011_2012.png)
+
+---
+
 ## 📈 Model Performance Summary
 
 | Model | RMSE | MAPE | Notes |
@@ -124,7 +146,7 @@ Walmart-Sales-EDA/
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib  
 - **Environment:** JupyterLab / Anaconda  
-- **Visualization:** Matplotlib, Seaborn  
+- **Visualization:** Tableau, Matplotlib, Seaborn  
 - **Version Control:** Git & GitHub  
 
 ---
@@ -134,3 +156,4 @@ Walmart-Sales-EDA/
 🎓 M.S. Data Analytics @ The University of Texas at San Antonio  
 📍 Focus: Business Analytics, Forecasting, and Data Science for Retail  
 🔗 [LinkedIn](https://www.linkedin.com/in/siripaiboon-janpetch) | [GitHub](https://github.com/FlameSJ2000)
+
