@@ -58,7 +58,7 @@ BusinessAnalyticProject/
 - Analyzed weekly trends and store-level patterns  
 - Compared **Holiday vs. Non-Holiday Weeks**  
 - Correlated external factors: *CPI, Fuel Price, Unemployment*  
-📄 Report → [`Analysis_Walmart_EDA.html`](reports/Analysis_Walmart_EDA_Template.html)
+📄 Report → [`Analysis_Walmart_EDA_Template.html`](reports/Analysis_Walmart_EDA_Template.html)
 
 ---
 
