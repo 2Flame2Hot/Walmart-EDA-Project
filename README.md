@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/FlameSJ2000/Walmart-EDA-Project)
-![Walmart Sales Dashboard Preview](exports/Walmart_Sales_Insights_Dashboard_2011_2012.png)
 
 
 ## 📘 Overview
@@ -107,6 +106,17 @@ BusinessAnalyticProject/
 
 📊 Tableau Export Preview:  
 ![Dashboard Preview](exports/Walmart_Sales_Insights_Dashboard_2011_2012.png)
+
+---
+
+### 📦 Demo / Download Files
+
+You can explore or download the Tableau components used in this project:
+
+📊 [Download Tableau Dashboard (.twbx)](Tableau_dashboard/Walmart_Sales_Insights.twbx)  
+🧩 [Download Data Prep Flow (.tflx)](Tableau_prep/Walmart_Prep_Flow.tflx)  
+
+These files can be opened using **Tableau Desktop** or **Tableau Public** to interact with the data and dashboard flow.
 
 ---
 
