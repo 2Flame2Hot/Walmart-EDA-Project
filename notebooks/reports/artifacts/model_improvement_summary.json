@@ -1,0 +1,13 @@
+{
+  "Baseline_RMSE": "97,804",
+  "Baseline_MAPE": "6.40%",
+  "Tuned_XGB_RMSE": "100,357",
+  "Tuned_XGB_MAPE": "6.06%",
+  "Best_Params": {
+    "colsample_bytree": 0.8,
+    "learning_rate": 0.01,
+    "max_depth": 4,
+    "n_estimators": 800,
+    "subsample": 0.8
+  }
+}
