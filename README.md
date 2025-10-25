@@ -133,4 +133,4 @@ Walmart-Sales-EDA/
 **Siripaiboon Janpetch**  
 🎓 M.S. Data Analytics @ The University of Texas at San Antonio  
 📍 Focus: Business Analytics, Forecasting, and Data Science for Retail  
-🔗 [LinkedIn](https://www.linkedin.com/in/siripaiboon-janpetch) | [GitHub](https://github.com/2Flame2Hot)
+🔗 [LinkedIn](https://www.linkedin.com/in/siripaiboon-janpetch) | [GitHub](https://github.com/FlameSJ2000)
