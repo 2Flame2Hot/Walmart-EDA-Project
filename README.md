@@ -32,7 +32,7 @@ BusinessAnalyticProject/
 │ └── Model_Tuning_XGBoost.ipynb
 │
 ├── reports/ # Exported reports
-│ ├── Analysis_Walmart_EDA.html
+│ ├── Analysis_Walmart_EDA_Template.html
 │ ├── Feature_Engineering.html
 │ ├── Model_Baseline.html
 │ └── Model_Tuning_XGBoost.html
@@ -58,7 +58,7 @@ BusinessAnalyticProject/
 - Analyzed weekly trends and store-level patterns  
 - Compared **Holiday vs. Non-Holiday Weeks**  
 - Correlated external factors: *CPI, Fuel Price, Unemployment*  
-📄 Report → [`Analysis_Walmart_EDA.html`](reports/Analysis_Walmart_EDA.html)
+📄 Report → [`Analysis_Walmart_EDA.html`](reports/Analysis_Walmart_EDA_Template.html)
 
 ---
 
