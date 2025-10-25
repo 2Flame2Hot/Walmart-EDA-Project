@@ -1,4 +1,8 @@
 # 🛒 Walmart Sales Forecasting & Dashboard Project
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/FlameSJ2000/Walmart-EDA-Project)
+
 
 ## 📘 Overview
 This project analyzes **Walmart’s weekly sales data** to forecast future sales and identify key business drivers.  
@@ -42,7 +46,9 @@ BusinessAnalyticProject/
 ├── exports/ # Image exports (for README)
 │ └── Walmart_Sales_Insights_Dashboard_2011_2012.png
 │
-└── README.md
+├── README.md
+└── LICENSE
+
 
 ```
 
