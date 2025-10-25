@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/FlameSJ2000/Walmart-EDA-Project)
+![Walmart Sales Dashboard Preview](exports/Walmart_Sales_Insights_Dashboard_2011_2012.png)
 
 
 ## 📘 Overview
